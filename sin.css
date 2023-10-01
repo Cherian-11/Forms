@@ -1,9 +1,9 @@
 body
 {
-    background: linear-gradient(to bottom, #FFFFFF 0%, #ff99cc 100%);
+    background: linear-gradient(to bottom, #9ecebe 0%, #57caca 100%);
     text-align:center;
     padding: 6cm;
-    border-color:linear-gradient(to bottom, hsl(96, 68%, 55%) 0%, #ff99cc 100%);
+    border-color:linear-gradient(to bottom, #9ecebe 0%, #57caca 100%);
     border-style:solid;
     border-width: .4cm;
 }
@@ -11,14 +11,14 @@ body
 input{
     border-radius: 5%;
     padding: 2%;
-    background-color: yellow;
+    background-color: white;
     border-style: solid;
     border-color: black;
 
 }
 button
 {
-    background: linear-gradient(to bottom, #FFFFFF 0%, hsl(331, 41%, 72%) 100%);
+    background: linear-gradient(to bottom, #66CDAA 0%, white(331, 41%, 72%) 100%);
     border-radius: 5%;
 }
 a{
